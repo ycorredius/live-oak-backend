@@ -1,0 +1,11 @@
+{
+  "name": "live-oak-backend",
+  "version": "1.0.0",
+  "description": "This is the client side for live-oak app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shaun",
+  "license": "ISC"
+}
